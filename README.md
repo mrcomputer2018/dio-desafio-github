@@ -9,6 +9,9 @@ desafio de projeto dio sobre github
 [ Compressao de Imagem ]
 - https://tinypng.com/
 
-[ Geradoor dee Lorem Ipsum ]
+[ Gerador dee Lorem Ipsum ]
 - https://br.lipsum.com/feed/html
 
+[ CCS ]
+- https://developer.mozilla.org/pt-BR/
+- https://css-tricks.com/
